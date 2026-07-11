@@ -1,7 +1,7 @@
 # new-grad-design-work
 A UX/UI &amp; Product Design new‑grad resource hub built to make job searching less isolating and help early‑career designers find real opportunities and community in a tough market.
 ## 🌱 Why I Built This
-Finding new‑grad UX/UI and Product Design roles has been surprisingly difficult — not because the talent isn’t there, but because opportunities are scattered, mislabeled, or buried under job titles that don’t reflect early‑career design work. After navigating this job market myself, I realized how isolating the search can feel, especially for designers trying to break in for the first time.
+Finding new‑grad UX/UI and Product Design roles has been surprisingly difficult not because the talent isn’t there, but because opportunities are scattered, mislabeled, or buried under job titles that don’t reflect early‑career design work. After navigating this job market myself, I realized how isolating the search can feel, especially for designers trying to break in for the first time.
 
 This repository exists to make that process less overwhelming.
 
