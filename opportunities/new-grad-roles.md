@@ -22,8 +22,7 @@ https://jobs.microsoft.com/us/en/search?keywords=designer
 
 ### ⭐ Meta (Product Design)
 - **Product Designer (University Grad)**  
-  https://www.metacareers.com/jobs  
-  
+https://www.metacareers.com/jobsearch/?q=ux%20design
 
 ---
 
@@ -47,13 +46,12 @@ https://jobs.microsoft.com/us/en/search?keywords=designer
 
 ### ⭐ Adobe (Experience Design)
 - **Experience Designer (New Grad)**  
-  https://careers.adobe.com/us/en/search-results  
-  
+https://careers.adobe.com/us/en/search-results?keywords=experience%20design  
 
 ---
 
 ### ⭐ TikTok (Product Design)
-- **Product Designer (Design+Code/Vibe Coding) – TikTok UX (San Jose)**  
+- **Product Designer – TikTok UX (San Jose)**  
   https://www.indeed.com/viewjob?jk=some-id-tiktok  
   
 
