@@ -91,5 +91,5 @@ Whether you’re a new grad, a career changer, or a designer wanting to support 
 ## 📬 Contact
 If you’d like to connect or collaborate:
 
-**LinkedIn:** [https://linkedin.com/in/tolinayussuf ](https://www.linkedin.com/in/tolina-yussuf/) 
+**LinkedIn:** (https://www.linkedin.com/in/tolina-yussuf/) 
 **Email:** tolina.yussuf@gmail.com
