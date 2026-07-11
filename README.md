@@ -66,3 +66,30 @@ My goal is to build a hub that helps designers feel supported and connected in t
 - Code for America — UX Designer (Entry Level)
 - U.S. Digital Corps — UX/UI Designer (Recent Grads)
 - UNICEF Innovation — Product Design (Early Career)
+
+- ----
+
+## 🤝 How to Contribute
+This hub is meant to grow with the community. If you’d like to contribute:
+
+### **📝 Add Opportunities**
+- Submit a pull request with new roles or programs  
+- Include links, deadlines (if applicable), and short descriptions  
+
+### **📁 Share Resources**
+- Add portfolio tips, case study templates, or design tools  
+- Contribute accessibility, research, or product strategy guides  
+
+### **💬 Join the Conversation**
+- Open an issue to discuss job search challenges  
+- Share advice, encouragement, or questions for other designers  
+
+Whether you’re a new grad, a career changer, or a designer wanting to support others, you’re welcome here.
+
+---
+
+## 📬 Contact
+If you’d like to connect or collaborate:
+
+**LinkedIn:** https://linkedin.com/in/tolinayussuf  
+**Email:** tolina.yussuf@gmail.com
