@@ -16,24 +16,6 @@ You can type directly into any field, check off statuses, or use the dropdown op
 
 ---
 
-## 🔽 Status Options (Dropdown)
-
-<details>
-  <summary>Click to view status options</summary>
-
-- Saved  
-- Submitted  
-- Recruiter Screen  
-- Interviewing  
-- Final Round  
-- Offer  
-- Rejected  
-- Ghosted  
-
-</details>
-
----
-
 ## ✔️ Status Checklist (Interactive)
 
 Use this if you prefer checkboxes:
