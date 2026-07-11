@@ -17,8 +17,8 @@ Below is a curated list of currently open UX/UI & Product Design roles from repu
 
 ### ⭐ Microsoft (UX & Product Design)
 - **Product/UX Designer (Early Career)**  
-  https://jobs.microsoft.com/us/en/search?keywords=designer  
-  
+https://jobs.microsoft.com/us/en/search?keywords=designer  
+
 
 ---
 
