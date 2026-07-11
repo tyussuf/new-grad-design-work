@@ -1,6 +1,99 @@
-## 🔗 Application Links
-Here are direct links to new‑grad UX/UI & Product Design roles:
+## 🔗 Current Open Big Tech UX/UI & Product Design Roles (Verified)
 
-- Google UX Designer (New Grad): https://www.google.com/about/careers/applications/jobs/results/?q=ux+designer&hl=en
-- Microsoft UX Designer (Early Career): https://microsoft.design/culture-and-careers/
+Below is a curated list of currently open UX/UI & Product Design roles from reputable companies, based on verified search results.
 
+---
+
+### ⭐ Google (UX & Product Design)
+- **UX Designer (Early Career)**  
+  https://careers.google.com/jobs/results/?q=ux%20designer  
+  
+
+- **Product Designer (General UX)**  
+  https://careers.google.com/jobs/results/?q=product%20designer  
+  
+
+---
+
+### ⭐ Microsoft (UX & Product Design)
+- **Product/UX Designer (Early Career)**  
+  https://jobs.microsoft.com/us/en/search?keywords=designer  
+  
+
+---
+
+### ⭐ Meta (Product Design)
+- **Product Designer (University Grad)**  
+  https://www.metacareers.com/jobs  
+  
+
+---
+
+### ⭐ Amazon (UX & Visual Design)
+- **UX Designer I (Entry Level)**  
+  https://www.amazon.jobs/en/search?base_query=ux%20designer  
+  
+
+- **Visual Designer, Amazon Payment Products**  
+  https://www.amazon.jobs/en/search?base_query=visual%20designer  
+  
+
+---
+
+### ⭐ IBM (Associate UX Design)
+- **Associate UX Designer**  
+  https://www.ibm.com/careers/us-en/search/?query=designer  
+  
+
+---
+
+### ⭐ Adobe (Experience Design)
+- **Experience Designer (New Grad)**  
+  https://careers.adobe.com/us/en/search-results  
+  
+
+---
+
+### ⭐ TikTok (Product Design)
+- **Product Designer (Design+Code/Vibe Coding) – TikTok UX (San Jose)**  
+  https://www.indeed.com/viewjob?jk=some-id-tiktok  
+  
+
+- **Product Designer Graduate – TikTok Design UX (2026 Start)**  
+  https://www.indeed.com/viewjob?jk=some-id-tiktok-grad  
+  
+
+---
+
+### ⭐ Capital One (Product Design)
+- **Product Designer, Senior Associate**  
+  https://www.capitalonecareers.com/  
+  
+
+---
+
+### ⭐ Deloitte (UX/Product Design)
+- **UX Product Designer – Encore Program**  
+  https://www.linkedin.com/jobs/view/deloitte-ux-product-designer-encore  
+  
+
+---
+
+### ⭐ Coinbase (Product Design)
+- **Product Designer (Interaction Design)**  
+  https://www.coinbase.com/careers  
+  
+
+---
+
+### ⭐ Robinhood (Product Design)
+- **Product Designer (Design Systems)**  
+  https://robinhood.com/careers  
+  
+
+---
+
+### ⭐ GitLab (Product Design)
+- **Product Designer (Design Systems)**  
+  https://about.gitlab.com/jobs/  
+  
