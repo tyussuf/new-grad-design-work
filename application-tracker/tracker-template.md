@@ -49,20 +49,6 @@ Use this if you prefer checkboxes:
 
 ---
 
-## 🏷️ Status Badges (Optional Visual Labels)
-
-Paste these into the **Status** column if you want a more visual tracker:
-
-- 🟦 Saved  
-- 🟩 Submitted  
-- 🟧 Interviewing  
-- 🟪 Final Round  
-- 🟨 Offer  
-- 🟥 Rejected  
-- ⚪ Ghosted  
-
----
-
 ## 📝 Notes Section
 
 Add recruiter names, timelines, interview prep notes, or reflections here.
