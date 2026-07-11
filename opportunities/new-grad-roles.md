@@ -1,6 +1,4 @@
-## 🔗 Current Open Big Tech UX/UI & Product Design Roles (Verified)
-
-Below is a curated list of currently open UX/UI & Product Design roles from reputable companies, based on verified search results.
+## 🔗 Current Open Big Tech UX/UI & Product Design Roles
 
 ---
 
