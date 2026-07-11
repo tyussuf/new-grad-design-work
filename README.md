@@ -11,7 +11,7 @@ It’s a community‑minded space where early‑career designers can:
 - Share resources, case studies, and portfolio work  
 - Support each other in a job market that often feels closed off  
 
-My goal is to build a hub that helps designers feel seen, supported, and connected — because none of us should have to navigate this journey alone.
+My goal is to build a hub that helps designers feel supported and connected in this new grad journey. Keep going :))
 
 ## 🎓 New Grad UX/UI & Product Design Opportunities
 
