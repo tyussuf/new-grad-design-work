@@ -10,7 +10,7 @@ This is when companies release:
 - Experience Designer (Early Career)
 - Rotational program roles (Capital One DDP, IBM, Adobe, etc.)
 
-### 💤 Why there are no true new‑grad roles open right now
+### Why there are no true new‑grad roles open right now
 As of mid‑2026, companies are:
 - finishing intern conversions  
 - finalizing headcount  
