@@ -1,16 +1,15 @@
 # 🎯 New Grad UX/UI & Product Design Application Tracker
 
-# 🎯 New Grad UX/UI & Product Design Application Tracker
-
 Use this template to organize your job search.  
-You can fill in the blanks, check off statuses, or use the dropdowns below.
+You can type directly into any field, check off statuses, or use the dropdown options below.
 
 ---
 
-## 📄 Application Table
+## 📄 Application Table (Fill‑In‑The‑Blank)
 
 | Company | Role | Link | Date Applied | Status | Notes |
 |--------|------|------|--------------|--------|-------|
+| ______ | ______ | ______ | ______ | ______ | ______ |
 | ______ | ______ | ______ | ______ | ______ | ______ |
 | ______ | ______ | ______ | ______ | ______ | ______ |
 | ______ | ______ | ______ | ______ | ______ | ______ |
@@ -18,6 +17,7 @@ You can fill in the blanks, check off statuses, or use the dropdowns below.
 ---
 
 ## 🔽 Status Options (Dropdown)
+
 <details>
   <summary>Click to view status options</summary>
 
@@ -29,11 +29,13 @@ You can fill in the blanks, check off statuses, or use the dropdowns below.
 - Offer  
 - Rejected  
 - Ghosted  
+
 </details>
 
 ---
 
-## ✔️ Status Checklist Template
+## ✔️ Status Checklist (Interactive)
+
 Use this if you prefer checkboxes:
 
 - [ ] Saved  
@@ -47,6 +49,27 @@ Use this if you prefer checkboxes:
 
 ---
 
+## 🏷️ Status Badges (Optional Visual Labels)
+
+Paste these into the **Status** column if you want a more visual tracker:
+
+- 🟦 Saved  
+- 🟩 Submitted  
+- 🟧 Interviewing  
+- 🟪 Final Round  
+- 🟨 Offer  
+- 🟥 Rejected  
+- ⚪ Ghosted  
+
+---
+
 ## 📝 Notes Section
-Add any insights, recruiter names, timelines, or interview prep notes here.
+
+Add recruiter names, timelines, interview prep notes, or reflections here.
+
+- ______  
+- ______  
+- ______  
+
+
 
