@@ -1,95 +1,37 @@
-## 🔗 Current Open Big Tech UX/UI & Product Design Roles
+## 📅 New Grad UX/UI & Product Design Hiring Timeline
 
----
+Most Big Tech companies hire new‑grad designers on a **seasonal cycle**, not year‑round.
 
-### ⭐ Google (UX & Product Design)
-- **UX Designer (Early Career)**  
-  https://careers.google.com/jobs/results/?q=ux%20designer  
-  
+### 🎓 New‑Grad UX/UI & Product Design roles typically open:
+**August → October (Peak Season)**  
+This is when companies release:
+- UX Designer (New Grad)
+- Product Designer (University Grad)
+- Experience Designer (Early Career)
+- Rotational program roles (Capital One DDP, IBM, Adobe, etc.)
 
-- **Product Designer (General UX)**  
-  https://careers.google.com/jobs/results/?q=product%20designer  
-  
+### 💤 Why there are no true new‑grad roles open right now
+As of mid‑2026, companies are:
+- finishing intern conversions  
+- finalizing headcount  
+- preparing fall hiring pipelines  
+- closing out FY budgets  
 
----
+This means **new‑grad roles are not posted yet**, which is normal.
 
-### ⭐ Microsoft (UX & Product Design)
-- **Product/UX Designer (Early Career)**  
-https://jobs.microsoft.com/us/en/search?keywords=designer  
+### 🔗 What this section is for
+When new‑grad roles drop (usually late summer),  
+**they will appear right here** with direct application links.
 
+Check back in August–October for:
+- Google UX Designer (New Grad)
+- Meta Product Designer (University Grad)
+- Microsoft UX Designer (Early Career)
+- Amazon UX Designer I
+- Adobe Experience Designer (New Grad)
+- IBM Associate Designer
+- TikTok Product Designer Graduate
+- U.S. Digital Corps UX/UI Designer
+- Figma / Stripe / Notion Early Career roles
 
----
-
-### ⭐ Meta (Product Design)
-- **Product Designer (University Grad)**  
-https://www.metacareers.com/jobsearch/?q=ux%20design
-
----
-
-### ⭐ Amazon (UX & Visual Design)
-- **UX Designer I (Entry Level)**  
-  https://www.amazon.jobs/en/search?base_query=ux%20designer  
-  
-
-- **Visual Designer, Amazon Payment Products**  
-  https://www.amazon.jobs/en/search?base_query=visual%20designer  
-  
-
----
-
-### ⭐ IBM (Associate UX Design)
-- **Associate UX Designer**  
-  https://www.ibm.com/careers/us-en/search/?query=designer  
-  
-
----
-
-### ⭐ Adobe (Experience Design)
-- **Experience Designer (New Grad)**  
-https://careers.adobe.com/us/en/search-results?keywords=experience%20design  
-
----
-
-### ⭐ TikTok (Product Design)
-- **Product Designer – TikTok UX (San Jose)**  
-  https://www.indeed.com/viewjob?jk=some-id-tiktok  
-  
-
-- **Product Designer Graduate – TikTok Design UX (2026 Start)**  
-  https://www.indeed.com/viewjob?jk=some-id-tiktok-grad  
-  
-
----
-
-### ⭐ Capital One (Product Design)
-- **Product Designer, Senior Associate**  
-  https://www.capitalonecareers.com/  
-  
-
----
-
-### ⭐ Deloitte (UX/Product Design)
-- **UX Product Designer – Encore Program**  
-  https://www.linkedin.com/jobs/view/deloitte-ux-product-designer-encore  
-  
-
----
-
-### ⭐ Coinbase (Product Design)
-- **Product Designer (Interaction Design)**  
-  https://www.coinbase.com/careers  
-  
-
----
-
-### ⭐ Robinhood (Product Design)
-- **Product Designer (Design Systems)**  
-  https://robinhood.com/careers  
-  
-
----
-
-### ⭐ GitLab (Product Design)
-- **Product Designer (Design Systems)**  
-  https://about.gitlab.com/jobs/  
-  
+This page will update as soon as those roles open.
