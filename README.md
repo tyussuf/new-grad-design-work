@@ -18,6 +18,7 @@ My goal is to build a hub that helps designers feel supported and connected in t
 - [Application Tracker](./application-tracker/)
 - [Opportunities](./opportunities/)
 - [Community & Contributions](./community/how-to-contribute.md)
+- [How to Contribute](./community/how-to-contribute.md)
 
 
 ## 🎓 New Grad UX/UI & Product Design Opportunities
