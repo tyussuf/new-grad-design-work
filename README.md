@@ -1,2 +1,67 @@
 # new-grad-design-work
 A UX/UI &amp; Product Design new‑grad resource hub built to make job searching less isolating and help early‑career designers find real opportunities and community in a tough market.
+## 🌱 Why I Built This
+Finding new‑grad UX/UI and Product Design roles has been surprisingly difficult — not because the talent isn’t there, but because opportunities are scattered, mislabeled, or buried under job titles that don’t reflect early‑career design work. After navigating this job market myself, I realized how isolating the search can feel, especially for designers trying to break in for the first time.
+
+This repository exists to make that process less overwhelming.
+
+It’s a community‑minded space where early‑career designers can:
+- Discover real new‑grad UX/UI and Product Design opportunities  
+- Track companies that consistently hire junior designers  
+- Share resources, case studies, and portfolio work  
+- Support each other in a job market that often feels closed off  
+
+My goal is to build a hub that helps designers feel seen, supported, and connected — because none of us should have to navigate this journey alone.
+
+## 🎓 New Grad UX/UI & Product Design Opportunities
+
+### Big Tech
+- Google — UX Designer (New Grad)
+- Meta — Product Designer (University Grad)
+- Microsoft — UX Designer (Early Career)
+- Amazon — UX Designer I / Product Designer I
+- IBM — Associate Designer
+- Apple — Human Interface Designer (Entry Level)
+- Adobe — Experience Designer (New Grad)
+
+### Enterprise & Rotational Programs
+- Capital One — Design Development Program (DDP)
+- Visa — Associate UX Designer
+- Salesforce — Associate UX Designer
+- Intuit — Product Designer I
+- American Express — UX/Product Design Analyst
+- JPMorgan Chase — UX Designer (Entry Level)
+
+### Media & Entertainment
+- Warner Bros Discovery — Associate Product Designer
+- Disney — Associate Product Designer / UX Designer
+- NBCUniversal — UX Designer I
+- Paramount — Associate Product Designer
+- Spotify — Associate Product Designer
+
+### Startups & Product-Led Tech
+- Figma — Product Designer (Early Career)
+- Stripe — Product Designer (New Grad)
+- Atlassian — Junior Product Designer
+- HubSpot — Associate Product Designer
+- Notion — Product Designer (Early Career)
+- Duolingo — Associate Product Designer
+
+### Consulting & Agencies
+- Accenture Song — Experience Designer Analyst
+- Deloitte Digital — UX Designer (Entry Level)
+- PwC Experience Center — Associate Designer
+- Publicis Sapient — Junior UX Designer
+- Frog Design — Junior Interaction Designer
+
+### EdTech & Learning Platforms
+- Coursera — Product Designer I
+- Chegg — Associate Product Designer
+- Handshake — UX/Product Designer (Early Career)
+- Anthology/Blackboard — UX Designer I
+- Khan Academy — Associate Product Designer
+
+### Civic Tech & Social Impact
+- Code for America — UX Designer (Entry Level)
+- U.S. Digital Corps — UX/UI Designer (Recent Grads)
+- UNICEF Innovation — Product Design (Early Career)
